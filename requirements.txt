@@ -1,5 +1,5 @@
 
-#git+git://github.com/Rapptz/discord.py.git@async#egg=discord.py
+git+https://github.com/Rapptz/discord.py.git@async#egg=discord.py
 youtube_dl
 imgurpython
 pillow
