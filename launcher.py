@@ -525,20 +525,20 @@ def main():
         print("4. Install requirements")
         print("5. Maintenance (repair, reset...)")
         print("\n0. Quit")
-        choice = user_choice()
-        if choice == "1":
-            run_red(autorestart=True)
-        elif choice == "2":
-            run_red(autorestart=False)
-        elif choice == "3":
-            update_menu()
-        elif choice == "4":
-            requirements_menu()
-        elif choice == "5":
-            maintenance_menu()
-        elif choice == "0":
-            break
-        clear_screen()
+#        choice = user_choice()
+       # if choice == "1":
+        #    run_red(autorestart=True)
+       # elif choice == "2":
+      #      run_red(autorestart=False)
+      #  elif choice == "3":
+      #      update_menu()
+      #  elif choice == "4":
+     #       requirements_menu()
+      #  elif choice == "5":
+      #      maintenance_menu()
+      #  elif choice == "0":
+       #     break
+      #  clear_screen()
 
 args = parse_cli_arguments()
 
