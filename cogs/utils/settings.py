@@ -14,7 +14,7 @@ class Settings:
         self.path = path
         self.check_folders()
         self.default_settings = {
-            "TOKEN": 'NTI5Njk5Njg1MDkxMjQ2MDgw.XKGz7g.1zaOKqHFkp8hwLhXKD3v0klTvQk',
+            "TOKEN": '',
             "EMAIL": None,
             "PASSWORD": None,
             "OWNER": '455500545587675156',
