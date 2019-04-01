@@ -14,10 +14,10 @@ class Settings:
         self.path = path
         self.check_folders()
         self.default_settings = {
-            "TOKEN": 'NTQ3ODQ0NjU0NDUyNzAzMzIx.D3VWlQ.okYQpt5LPq8sjvZ9HDuCErMC_2c',
+            "TOKEN": 'NTI5Njk5Njg1MDkxMjQ2MDgw.XKGz7g.1zaOKqHFkp8hwLhXKD3v0klTvQk',
             "EMAIL": None,
             "PASSWORD": None,
-            "OWNER": '510096668633464843',
+            "OWNER": '455500545587675156',
             "PREFIXES": ['d!'],
             "default": {"ADMIN_ROLE": "Admin",
                         "MOD_ROLE": "|♏|ModeratorӁ",
