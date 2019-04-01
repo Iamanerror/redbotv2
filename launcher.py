@@ -404,8 +404,8 @@ def wait():
         input("Press enter to continue.")
 
 
-def user_choice():
-    return input("> ").lower().strip()
+#def user_choice():
+    #return input("> ").lower().strip()
 
 
 def user_pick_yes_no():
